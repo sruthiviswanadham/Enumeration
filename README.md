@@ -33,21 +33,30 @@ Google hacking, also known as Google dorking, is a technique that involves using
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 
+![image](https://github.com/user-attachments/assets/61c7ccdb-a0cb-4efe-ac8d-36962cbb0b9e)
+
+
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
+![image](https://github.com/user-attachments/assets/57a7da73-f8ca-4c58-a5c9-2516816d86af)
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
+![Screenshot (349)](https://github.com/user-attachments/assets/9aded600-5ec2-4222-bf9f-c4e4cfcd03c2)
 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
+![image](https://github.com/user-attachments/assets/b7520cb7-840c-4f90-9094-0fa57983cb73)
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+![Screenshot (350)](https://github.com/user-attachments/assets/83adc5a3-480c-4827-b920-1abf6de03825)
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+![image](https://github.com/user-attachments/assets/20e69b44-d3dc-449c-a7c9-c02dbbba2e60)
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+![Uploading image.png…]()
 
  
 #DNS Enumeration
