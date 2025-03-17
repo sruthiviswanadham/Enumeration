@@ -56,7 +56,7 @@ link: This operator allows you to search for pages that link to a specific URL. 
 ![image](https://github.com/user-attachments/assets/20e69b44-d3dc-449c-a7c9-c02dbbba2e60)
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/56a881c9-098e-485e-89ee-8bddbdda4163)
 
  
 #DNS Enumeration
@@ -78,6 +78,8 @@ Top level domain expansion
 
 ##dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
+![WhatsApp Image 2025-03-15 at 14 36 47_121a5768](https://github.com/user-attachments/assets/882fba6d-b23c-42ca-9a99-478983f5879f)
+
 
 Get the host’s addresses (A record).
 Get the namservers (threaded).
@@ -93,11 +95,14 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 
 ##smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
+![Uploading image.png…]()
+
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
+![WhatsApp Image 2025-03-17 at 18 50 22_07bc5b02](https://github.com/user-attachments/assets/446abea5-c5c4-47d8-b3f8-6466b8e15f20)
 
 
 #Telnet for smtp enumeration
@@ -107,7 +112,8 @@ and issue appropriate commands
   
  ##Output
   
-  
+  ![WhatsApp Image 2025-03-15 at 14 41 47_c60d0e8c](https://github.com/user-attachments/assets/be6ec717-acf3-4ed6-935e-227d8ddedf1f)
+
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
@@ -115,6 +121,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+![WhatsApp Image 2025-03-17 at 18 49 56_0dae7968](https://github.com/user-attachments/assets/3e9c911d-3d6f-4cfb-b2d8-592a8f4189f5)
 
 
 ## RESULT:
